@@ -60,3 +60,5 @@ npm run dev
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:22d3ee&height=100&section=footer)
+
+<!-- v1.0.0 -->
